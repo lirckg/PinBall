@@ -40,6 +40,7 @@ public class FripperController : MonoBehaviour {
 			SetAngle (this.defaultAngle);
 		}
 
+		// タッチ処理
 		OnTouch ();
 	}
 
